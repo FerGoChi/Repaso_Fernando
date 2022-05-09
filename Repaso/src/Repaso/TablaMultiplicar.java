@@ -11,8 +11,8 @@ public class TablaMultiplicar {
 					for (int num=1;num<=10;num++) {
 						System.out.println(tabla+ " X " + num + " = "+ (tabla*num));
 						
-						String frase="Me encanta este codigo";
-						System.out.println(frase);
+						
+						System.out.println("Me encanta este codigo");
 										
 					}
 					
